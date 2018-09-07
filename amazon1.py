@@ -1,5 +1,5 @@
 import math
-
+#this is a  program written for amazon
 data = str(input("Enter alphanumeric string\n"))
 
 n = data[::-1]
